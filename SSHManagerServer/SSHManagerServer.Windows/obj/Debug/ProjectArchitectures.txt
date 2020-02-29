@@ -1,0 +1,1 @@
+E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\SSHManagerServer.Windows.csproj;neutral

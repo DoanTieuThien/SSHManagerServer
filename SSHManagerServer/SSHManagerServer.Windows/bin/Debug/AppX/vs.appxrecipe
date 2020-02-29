@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-PT3D7TQ</Machine>
+    <WindowsUser>tuann</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9a7e7a40-96d4-42f9-a7be-7513ab955f06</PackageIdentityName>
+    <PackageIdentityPublisher>CN=tuann</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>F549317BBCBF7CE91AC0E4828ACF56A54D55A5C5B1F51965388A40ABC1B9D965</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9a7e7a40-96d4-42f9-a7be-7513ab955f06_1.0.0.0_neutral__jrzdjqn4qnnj4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9a7e7a40-96d4-42f9-a7be-7513ab955f06_jrzdjqn4qnnj4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9a7e7a40-96d4-42f9-a7be-7513ab955f06</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tuann</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-02-28T02:44:41.677</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\bin\Debug\SSHManagerServer.Windows.exe">
+      <PackagePath>SSHManagerServer.Windows.exe</PackagePath>
+      <Modified>2020-02-28T02:44:41.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\bin\Debug\SSHManagerServer.Windows.xr.xml">
+      <PackagePath>SSHManagerServer.Windows.xr.xml</PackagePath>
+      <Modified>2020-02-28T02:44:40.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-02-28T02:44:40.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-02-28T02:44:40.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CSharp\SSHManagerServer\SSHManagerServer\SSHManagerServer.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-02-28T02:44:41.461</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
